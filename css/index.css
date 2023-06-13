@@ -27,4 +27,15 @@ tbody#tablebody tr td {
     width: 100px;
     border: 1px solid #e1e1e1;
 }
+@media (max-width:600px) {
+    .mainbody{
+        width: 100%;
+        font-family: sans-serif;
+        margin: auto;
+    }
+    .table-content {
+        width: 100%;
+        overflow: auto;
+    }
+}
 
