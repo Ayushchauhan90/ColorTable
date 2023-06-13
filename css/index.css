@@ -26,6 +26,7 @@ tbody#tablebody tr td {
     height: 100px;
     width: 100px;
     border: 1px solid #e1e1e1;
+    font-weight: bold;
 }
 @media (max-width:600px) {
     .mainbody{
