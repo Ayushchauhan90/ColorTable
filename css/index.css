@@ -1,0 +1,30 @@
+.mainbody{
+    width: 80%;
+    font-family: sans-serif;
+    margin: auto;
+}
+.text-center {
+    background: -webkit-linear-gradient(#ff0052, #1522c7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+table.main-table {
+    width: 100%;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    text-transform: capitalize;
+}
+thead#tablehead tr th {
+    border-bottom: 1px solid #e1e1e1;
+    padding: 6px 1px;
+}
+tbody#tablebody tr td {
+    border-bottom: 1px solid #e1e1e1;
+    padding: 6px 1px;
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #e1e1e1;
+}
+
