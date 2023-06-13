@@ -25,3 +25,5 @@ var cells = document.querySelectorAll("td");
 cells.forEach(function(cell) {
     cell.addEventListener("click", handleClick);
 });
+
+//git completed
